@@ -12,3 +12,6 @@
     git remoto adicionar origem git@github.com:pereira290/Curso_FulStack.git
     git branch -M principal 
     git push -u origem principal
+
+…ou carregar um repositorio para o pc
+    git remoto adicionar origem 
